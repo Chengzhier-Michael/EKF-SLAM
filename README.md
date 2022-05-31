@@ -11,5 +11,6 @@ DSC291 course project
     - 3.You will see the result of first 100 time stamps.If you want to check the full result, please change the "for j in range(1, 100)" to "for j in range(1,tao)", that is marked as "EDIT HERE", it will take about 6 hours to generate the whole map.
 
 - result:
+![image](https://github.com/Chengzhier-Michael/EKF-SLAM/blob/main/final03.png)
 
 
