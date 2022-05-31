@@ -8,7 +8,7 @@ DSC291 course project
 - instruction:
     - 1.download all files and put into a same folder.
     - 2.run the main file in Jupyter Nootbook.
-    - 3.You will see the result of first 100 time stamps.If you want to check the full result, please change the "for j in range(1, 100)" to "for j in range(1,tao)", that is marked as "EDIT HERE", it will take about 6 hours to generate the whole map.
+    - 3.You will see the result of the first 100 time stamps.(Since it only runs a few steps, the trajectory may not be perfectly consistent with the final result)If you want to check the full result, please change the "for j in range(1, 100)" to "for j in range(1,tao)", which is marked as "EDIT HERE", it will take about 6 hours to generate the whole map.
 
 - result:
 ![image](https://github.com/Chengzhier-Michael/EKF-SLAM/blob/main/final03.png)
